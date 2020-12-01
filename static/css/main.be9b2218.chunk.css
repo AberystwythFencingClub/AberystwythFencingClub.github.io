@@ -1,0 +1,2 @@
+$section_height:100vh;$section_width:calc(100vw + 17px);.ReactModal__Overlay{transition:transform .3s ease-in-out;transition-delay:.1s;transform:scale(0)}.ReactModal__Overlay--after-open{transform:scale(1)}.ReactModal__Overlay--before-close{transform:scale(0)}
+/*# sourceMappingURL=main.be9b2218.chunk.css.map */

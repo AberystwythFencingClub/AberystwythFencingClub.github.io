@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1340aaa4fb095398f2051b60013c5043",
+    "revision": "76f4fd4fb033b6af2e8957cf7de475d9",
     "url": "/index.html"
   },
   {
-    "revision": "3c241ad7563d27a83a43",
-    "url": "/static/css/2.3a395901.chunk.css"
+    "revision": "89bef43fecf9c44cc37a",
+    "url": "/static/css/2.bb5dc4fb.chunk.css"
   },
   {
-    "revision": "cae019755515ed3530b8",
-    "url": "/static/css/main.00770f9f.chunk.css"
+    "revision": "e2065d9d866979b99493",
+    "url": "/static/css/main.be9b2218.chunk.css"
   },
   {
-    "revision": "3c241ad7563d27a83a43",
-    "url": "/static/js/2.e3acbb7c.chunk.js"
+    "revision": "89bef43fecf9c44cc37a",
+    "url": "/static/js/2.ddad37a4.chunk.js"
   },
   {
-    "revision": "ab40d9aa0e6fc6976e4503799ee3716e",
-    "url": "/static/js/2.e3acbb7c.chunk.js.LICENSE.txt"
+    "revision": "83a948c3ac4f025c0114fa02416987e8",
+    "url": "/static/js/2.ddad37a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cae019755515ed3530b8",
-    "url": "/static/js/main.18282712.chunk.js"
+    "revision": "e2065d9d866979b99493",
+    "url": "/static/js/main.be7a7a97.chunk.js"
   },
   {
     "revision": "7632c6acda2e3c494e67",
@@ -34,6 +34,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2185086577c099da9096735af007c60a",
     "url": "/static/media/Sport-Wales-bilingual-Colour-logo.21850865.png"
+  },
+  {
+    "revision": "41406a779fc77849c5e239173f4c4724",
+    "url": "/static/media/arrow-left-3-icon.41406a77.svg"
+  },
+  {
+    "revision": "e5cd3c02a99df7a0698490d716530206",
+    "url": "/static/media/arrow-right-3-icon.e5cd3c02.svg"
   },
   {
     "revision": "348807c7ecb7270d15fccff16ffe3fe4",
@@ -68,6 +76,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/facebook-icon.5e030c93.svg"
   },
   {
+    "revision": "6c9e80eec6977f6497b0e55f0fce374a",
+    "url": "/static/media/fast-icon.6c9e80ee.svg"
+  },
+  {
+    "revision": "fe63257737c2cbb1bd873201c675fb40",
+    "url": "/static/media/hatch_backdrop.fe632577.jpg"
+  },
+  {
     "revision": "ca394ec8a4754ab9db293dcac626bdcb",
     "url": "/static/media/menu.ca394ec8.svg"
   },
@@ -76,12 +92,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/play-circle.36f0e6ee.svg"
   },
   {
+    "revision": "1de1406c7d731eac5d1fe0c638eab549",
+    "url": "/static/media/quotes-l.1de1406c.svg"
+  },
+  {
+    "revision": "a12572bdffec3f4a0b1df5e8a332a139",
+    "url": "/static/media/reliable-icon.a12572bd.svg"
+  },
+  {
     "revision": "297d50a2cd8b864f0c1f357e5108d87a",
     "url": "/static/media/shield-icon.297d50a2.svg"
   },
   {
     "revision": "6c8f89cc4172b2cb49caeeef863d9692",
     "url": "/static/media/shop-icon.6c8f89cc.svg"
+  },
+  {
+    "revision": "345871b443e4f5f841bedccf11a61859",
+    "url": "/static/media/simple-icon.345871b4.svg"
   },
   {
     "revision": "5d0ff9bc5818d6498df9d90437127f90",
@@ -110,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c86fb21a2396dc9a8149429f1cd451cf",
     "url": "/static/media/svg-decorator-blob-7.c86fb21a.svg"
+  },
+  {
+    "revision": "06b7e9297b931c8f3c729d9666faf31f",
+    "url": "/static/media/svg-decorator-blob-9.06b7e929.svg"
   },
   {
     "revision": "5ae3fe7a0d10e5c14ec0575db276dcda",
