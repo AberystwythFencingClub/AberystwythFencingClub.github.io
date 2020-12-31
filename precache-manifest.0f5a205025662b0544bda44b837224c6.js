@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19574d674814dae6ec2d412340894684",
+    "revision": "63dc9abc08057a847f548cba2138671b",
     "url": "/index.html"
   },
   {
-    "revision": "f26cdfbdf4481cb482ec",
+    "revision": "689bce2568c57952aec8",
     "url": "/static/css/2.bb5dc4fb.chunk.css"
   },
   {
-    "revision": "0d5a5df9e65ad4e1a3ef",
+    "revision": "f3685fd23dc0ead34312",
     "url": "/static/css/main.be9b2218.chunk.css"
   },
   {
-    "revision": "f26cdfbdf4481cb482ec",
-    "url": "/static/js/2.c52b2ed8.chunk.js"
+    "revision": "689bce2568c57952aec8",
+    "url": "/static/js/2.6c6a8201.chunk.js"
   },
   {
     "revision": "83a948c3ac4f025c0114fa02416987e8",
-    "url": "/static/js/2.c52b2ed8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.6c6a8201.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d5a5df9e65ad4e1a3ef",
-    "url": "/static/js/main.70ac75f5.chunk.js"
+    "revision": "f3685fd23dc0ead34312",
+    "url": "/static/js/main.a2857d86.chunk.js"
   },
   {
     "revision": "7632c6acda2e3c494e67",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2185086577c099da9096735af007c60a",
     "url": "/static/media/Sport-Wales-bilingual-Colour-logo.21850865.png"
+  },
+  {
+    "revision": "9bda5f7cdb2e2ea8e8a9b1b94290cf33",
+    "url": "/static/media/abertown-logo-white.9bda5f7c.jpg"
   },
   {
     "revision": "41406a779fc77849c5e239173f4c4724",
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6c9e80eec6977f6497b0e55f0fce374a",
     "url": "/static/media/fast-icon.6c9e80ee.svg"
+  },
+  {
+    "revision": "c58c4cb07cd4a05cd07bc4fb8fc5b0c8",
+    "url": "/static/media/fireworks.c58c4cb0.jpg"
   },
   {
     "revision": "fe63257737c2cbb1bd873201c675fb40",
