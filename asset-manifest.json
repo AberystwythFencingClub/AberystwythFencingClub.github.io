@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.be9b2218.chunk.css",
-    "main.js": "/static/js/main.df80a97a.chunk.js",
-    "main.js.map": "/static/js/main.df80a97a.chunk.js.map",
+    "main.js": "/static/js/main.fe9298ba.chunk.js",
+    "main.js.map": "/static/js/main.fe9298ba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cbbb42e2.js",
     "runtime-main.js.map": "/static/js/runtime-main.cbbb42e2.js.map",
     "static/css/2.bb5dc4fb.chunk.css": "/static/css/2.bb5dc4fb.chunk.css",
-    "static/js/2.f0c6ad8a.chunk.js": "/static/js/2.f0c6ad8a.chunk.js",
-    "static/js/2.f0c6ad8a.chunk.js.map": "/static/js/2.f0c6ad8a.chunk.js.map",
+    "static/js/2.e64968fc.chunk.js": "/static/js/2.e64968fc.chunk.js",
+    "static/js/2.e64968fc.chunk.js.map": "/static/js/2.e64968fc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e407bed3161614c5b984734b8873e2a0.js": "/precache-manifest.e407bed3161614c5b984734b8873e2a0.js",
+    "precache-manifest.06259275d5c9ff11d4bb3b43bb616ba2.js": "/precache-manifest.06259275d5c9ff11d4bb3b43bb616ba2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bb5dc4fb.chunk.css.map": "/static/css/2.bb5dc4fb.chunk.css.map",
     "static/css/main.be9b2218.chunk.css.map": "/static/css/main.be9b2218.chunk.css.map",
-    "static/js/2.f0c6ad8a.chunk.js.LICENSE.txt": "/static/js/2.f0c6ad8a.chunk.js.LICENSE.txt",
+    "static/js/2.e64968fc.chunk.js.LICENSE.txt": "/static/js/2.e64968fc.chunk.js.LICENSE.txt",
     "static/media/Club.jpg": "/static/media/Club.1bd6fb70.jpg",
     "static/media/Sport-Wales-bilingual-Colour-logo.png": "/static/media/Sport-Wales-bilingual-Colour-logo.21850865.png",
     "static/media/abertown-logo-white.jpg": "/static/media/abertown-logo-white.9bda5f7c.jpg",
@@ -52,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.cbbb42e2.js",
     "static/css/2.bb5dc4fb.chunk.css",
-    "static/js/2.f0c6ad8a.chunk.js",
+    "static/js/2.e64968fc.chunk.js",
     "static/css/main.be9b2218.chunk.css",
-    "static/js/main.df80a97a.chunk.js"
+    "static/js/main.fe9298ba.chunk.js"
   ]
 }
