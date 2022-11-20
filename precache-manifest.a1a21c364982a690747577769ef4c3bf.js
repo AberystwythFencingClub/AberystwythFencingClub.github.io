@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b85282ce38c6d57d872ae6ec7d0028d8",
+    "revision": "69b23b041b76806f23f9586878940b31",
     "url": "/index.html"
   },
   {
-    "revision": "f2af2c29c5710dc64cfc",
-    "url": "/static/css/2.bb5dc4fb.chunk.css"
+    "revision": "25844f6563d92f53aa14",
+    "url": "/static/css/2.3a395901.chunk.css"
   },
   {
-    "revision": "dc1746f198a28790e152",
+    "revision": "b49d4b11af183f258fa0",
     "url": "/static/css/main.be9b2218.chunk.css"
   },
   {
-    "revision": "f2af2c29c5710dc64cfc",
-    "url": "/static/js/2.f0c6ad8a.chunk.js"
+    "revision": "25844f6563d92f53aa14",
+    "url": "/static/js/2.1d40faab.chunk.js"
   },
   {
-    "revision": "83a948c3ac4f025c0114fa02416987e8",
-    "url": "/static/js/2.f0c6ad8a.chunk.js.LICENSE.txt"
+    "revision": "ab40d9aa0e6fc6976e4503799ee3716e",
+    "url": "/static/js/2.1d40faab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc1746f198a28790e152",
-    "url": "/static/js/main.7029732b.chunk.js"
+    "revision": "b49d4b11af183f258fa0",
+    "url": "/static/js/main.3c03c7f2.chunk.js"
   },
   {
     "revision": "7632c6acda2e3c494e67",
@@ -38,26 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9bda5f7cdb2e2ea8e8a9b1b94290cf33",
     "url": "/static/media/abertown-logo-white.9bda5f7c.jpg"
-  },
-  {
-    "revision": "41406a779fc77849c5e239173f4c4724",
-    "url": "/static/media/arrow-left-3-icon.41406a77.svg"
-  },
-  {
-    "revision": "e5cd3c02a99df7a0698490d716530206",
-    "url": "/static/media/arrow-right-3-icon.e5cd3c02.svg"
-  },
-  {
-    "revision": "348807c7ecb7270d15fccff16ffe3fe4",
-    "url": "/static/media/arrow-right-icon.348807c7.svg"
-  },
-  {
-    "revision": "daa6dd44d99ff512fa3fdfd824cf442d",
-    "url": "/static/media/celebration-icon.daa6dd44.svg"
-  },
-  {
-    "revision": "09cc57a3737648e3052af81e0c83e65c",
-    "url": "/static/media/chef-icon.09cc57a3.svg"
   },
   {
     "revision": "c66b213d1dfff391c61146727032f068",
@@ -96,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/play-circle.36f0e6ee.svg"
   },
   {
-    "revision": "1de1406c7d731eac5d1fe0c638eab549",
-    "url": "/static/media/quotes-l.1de1406c.svg"
-  },
-  {
     "revision": "a12572bdffec3f4a0b1df5e8a332a139",
     "url": "/static/media/reliable-icon.a12572bd.svg"
   },
@@ -108,20 +84,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/shield-icon.297d50a2.svg"
   },
   {
-    "revision": "6c8f89cc4172b2cb49caeeef863d9692",
-    "url": "/static/media/shop-icon.6c8f89cc.svg"
-  },
-  {
     "revision": "345871b443e4f5f841bedccf11a61859",
     "url": "/static/media/simple-icon.345871b4.svg"
   },
   {
     "revision": "5d0ff9bc5818d6498df9d90437127f90",
     "url": "/static/media/star-icon.5d0ff9bc.svg"
-  },
-  {
-    "revision": "a200bad45b923b0b206917b16755f83f",
-    "url": "/static/media/stats-illustration.a200bad4.svg"
   },
   {
     "revision": "135d403ccd52c50bf2e773a8a68cea57",
